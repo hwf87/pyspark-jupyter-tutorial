@@ -1,1 +1,7 @@
 # git will ignore files with following patterns
+.cache
+.local
+.jupyter
+.ipython
+.ipynb_checkpoints
+
