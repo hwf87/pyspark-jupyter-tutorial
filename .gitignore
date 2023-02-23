@@ -5,3 +5,5 @@
 .ipython
 .ipynb_checkpoints
 path/
+.bash_history
+.python_history
